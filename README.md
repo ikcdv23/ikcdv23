@@ -32,9 +32,9 @@ He agrupado las tecnologías de mi "Tech Stack" principal en las que trabajo:
 
 Puedes revisar algunos de mis repositorios principales:
 
-- 💸 **[BudgetBuddy-v2.0.1](https://github.com/ikcdv23/BudgetBuddy-v2.0.1):** *(Reemplaza este texto con una línea explicando de qué trata tu aplicación BudgetBuddy).*
-- ⚡ **[Lumma](https://github.com/ikcdv23/Lumma):** Proyecto desarrollado utilizando el ecosistema de TypeScript. *(Reemplaza este texto explicando de qué trata Lumma).*
-- 🌐 **[LINGO-Javier-Alcate](https://github.com/ikcdv23/LINGO-Javier-Alcate):** *(Reemplaza este texto explicando de qué trata este proyecto de PHP).*
+- 💸 **[BudgetBuddy-v2.0.1](https://github.com/ikcdv23/BudgetBuddy-v2.0.1):** *Proyecto final de curso; 2do de DAW.*
+- ⚡ **[Lumma](https://github.com/ikcdv23/Lumma):** Proyecto desarrollado utilizando el ecosistema de TypeScript + turborepo. App de estudio enfocada para estudiantes (en desarrollo).*
+- 🌐 **[LINGO-Javier-Alcate](https://github.com/ikcdv23/LINGO-Javier-Alcate):** *Juego interactivo desarrollado en PHP; Laravel. Proyecto de 2do de DAW.*
 
 ---
 
