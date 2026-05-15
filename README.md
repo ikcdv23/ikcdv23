@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Javier Alc (@ikcdv23)
 
-### Desarrollador Full-Stack | Apasionado por la integración de IA
+### Desarrollador Full-Stack | Apasionado por la automejora e integración de IA
 
 Soy un desarrollador que combina el aprendizaje autodidacta con el rigor académico. Me apasiona construir herramientas de software sólidas ("code craft") y explorar cómo integrar flujos de trabajo con Inteligencia Artificial (AI workflows) para crear aplicaciones más inteligentes y útiles.
 
