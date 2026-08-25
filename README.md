@@ -4,37 +4,14 @@
 
 Soy un desarrollador que combina el aprendizaje autodidacta con el rigor académico. Me apasiona construir herramientas de software sólidas ("code craft") y explorar cómo integrar flujos de trabajo con Inteligencia Artificial (AI workflows) para crear aplicaciones más inteligentes y útiles.
 
-### 👨‍💻 Sobre mí
-
-- 💻 **Enfoque actual:** Desarrollando interfaces modernas, sistemas backend robustos y explorando integraciones con modelos de lenguaje (LLMs).
-- 🚀 **Construyendo ahora:** Una aplicación de escritorio orientada al estudio, integrando IA para la generación automática de resúmenes y flashcards.
-- 🌱 **Siempre aprendiendo:** Buscando mejorar constantemente mis habilidades de arquitectura de software y desarrollo full-stack.
-
----
-
 ### 🛠️ Tecnologías y Herramientas
 
-He agrupado las tecnologías de mi "Tech Stack" principal en las que trabajo:
-
-**Frontend & Backend:**  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Laravel%20Blade-f4645f?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Data & Scripting:**  
+![Blade](https://img.shields.io/badge/Laravel%20Blade-f4645f?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🚀 Proyectos Destacados
-
-Puedes revisar algunos de mis repositorios principales:
-
-- 💸 **[BudgetBuddy-v2.0.1](https://github.com/ikcdv23/BudgetBuddy-v2.0.1):** *Proyecto final de curso; 2do de DAW.*
-- ⚡ **[Lumma](https://github.com/ikcdv23/Lumma):** Proyecto desarrollado utilizando el ecosistema de TypeScript + turborepo. App de estudio enfocada para estudiantes (en desarrollo).*
-- 🌐 **[LINGO-Javier-Alcate](https://github.com/ikcdv23/LINGO-Javier-Alcate):** *Juego interactivo desarrollado en PHP; Laravel. Proyecto de 2do de DAW.*
 
 ---
 
@@ -46,6 +23,17 @@ Puedes revisar algunos de mis repositorios principales:
 </div>
 
 ---
+
+### 🚀 Proyectos Destacados
+
+Puedes revisar algunos de mis repositorios principales:
+
+- 💪 **[Rawsets](https://github.com/ikcdv23/rawsets):** *Proyecto desarrollado utilizando el ecosistema de react native. App movil diseñara para apasionados del deporte y seguimiento en el gimnasio (Desarrollo en pausa).*
+- ⚡ **[Lumma](https://github.com/ikcdv23/Lumma):** Proyecto desarrollado utilizando el ecosistema de TypeScript + turborepo. App de estudio enfocada para estudiantes (en desarrollo).*
+- 🌐 **[LINGO-Javier-Alcate](https://github.com/ikcdv23/LINGO-Javier-Alcate):** *Juego interactivo desarrollado en PHP; Laravel. Proyecto de 2do de DAW.*
+
+---
+
 
 ### 📫 Conecta conmigo
 
